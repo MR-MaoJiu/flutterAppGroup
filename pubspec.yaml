@@ -2,7 +2,7 @@ name: flutter_app_group
 description: 这是一个iOS使用的AppGroup插件用于设备间数据共享
 version: 0.0.1
 homepage: https://github.com/MR-MaoJiu/flutterAppGroup.git
-author: 猫九先森
+
 environment:
   sdk: ">=2.16.1 <3.0.0"
   flutter: ">=2.5.0"
